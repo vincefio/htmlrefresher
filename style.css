@@ -1,0 +1,33 @@
+h1{
+  color: red;
+}
+
+header{
+  background-color: green;
+  height: 50px;
+  text-align: center;
+}
+
+p{
+  padding: 15px;
+}
+
+#column1{
+  float: left;
+  width: 50%;
+  background-color:yellow;
+  height: 150px;
+}
+
+#column2{
+  float: left;
+  width: 50%;
+  background-color:red;
+  height: 150px;
+}
+
+article{
+  background-color: green;
+  height: 50px;
+  padding: 20px;
+}
